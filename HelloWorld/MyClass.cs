@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    public class Class1
+    public class MyClass
     {
         [CommandMethod("HelloWorld")]
         public void HelloWorld()
